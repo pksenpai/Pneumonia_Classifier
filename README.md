@@ -5,3 +5,4 @@
 - Labels: {0: 'NORMAL', 1: 'PNEUMONIA'}
 - Using transfer learning(VGG19) &amp; 3 model for fine-tuning
 - Same models with different optimizer algorithms (1.SGD, 2.RMSProp, 3.Adam)
+- Use Recall, Precision & F1-score as metrics
